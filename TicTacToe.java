@@ -6,7 +6,15 @@ import java.awt.Font;
 import java.awt.Graphics;
 import java.util.Random;
 
+/*********************************************************************************
+ * Menlo Hacks III - Tic-Tac_Toe
+ * 
+ * Created by:	Jack King
+ * Created on: 2/5/18
+ * 
+ * Play one and two player tic-tac-toe.
 
+ ***********************************************************************************/
 public class TicTacToe extends JFrame
 implements MouseListener, KeyListener
 {
